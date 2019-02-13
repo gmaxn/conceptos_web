@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+            <style> 
+            .uno {
+                position: relative;
+
+                border-radius: 15px;
+                border: 2px solid turquoise;
+                width: 100px;
+                height: 100px;             
+                background: turquoise;
+                transition: width 5s, height 5s;
+
+            }
+            
+            .uno p {
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                font:bold;
+                font-size: 30px;
+                margin: 0;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+            }
+            
+            .uno:hover {
+                height: 200px;
+                width: 200px;
+                animation-name: example;
+                animation-duration: 5s;
+                background: greenyellow;
+                border-radius: 25px;
+                border: 2px solid greenyellow;
+                font-size:  50px;          
+            }
+
+            @keyframes example {
+                from {
+                    background-color: turquoise;
+                    border-radius: 15px;
+                    border: 2px solid turquoise;
+                    font-size: 30px;
+                }
+                to {
+                    background-color: greenyellow;
+                    border-radius: 25px;
+                    border: 2px solid greenyellow;
+                    font-size: 100px;
+                }         
+            }
+            </style>
+
+
+    </head>
+    <body>
+        <div class="uno"><p>CSS</p></div>
+        <div id="02"></div> 
+        <div id="03"></div> 
+        <div id="04"></div>        
+    </body>
+</html>
