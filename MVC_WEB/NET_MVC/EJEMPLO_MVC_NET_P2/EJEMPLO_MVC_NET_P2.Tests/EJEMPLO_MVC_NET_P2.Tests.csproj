@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{87B064F6-2BEC-4F6E-B159-EBB9309F2D27}</ProjectGuid>
+    <ProjectGuid>{8EC9FB41-90A3-4228-A995-E0935B6F56A0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>EJEMPLO_MVC_NET_P2.Tests</RootNamespace>
@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EJEMPLO_MVC_NET_P2\EJEMPLO_MVC_NET_P2.csproj">
-      <Project>{A613B04F-0E76-41A0-9530-A6BFE702F9E4}</Project>
+      <Project>{A8E65E83-B340-4A2D-AE84-1321EF6FCCDC}</Project>
       <Name>EJEMPLO_MVC_NET_P2</Name>
     </ProjectReference>
   </ItemGroup>

@@ -26,11 +26,11 @@ namespace EJEMPLO_MVC_NET_P2.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-MXN\\SQLEXPRESS01;Initial Catalog=AppleStore;Integrated Securit" +
-            "y=True")]
-        public string ConexionBBDD {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-MXN\\SQLEXPRESS01;Initial Catalog=AppleStore2;Integrated Securi" +
+            "ty=True")]
+        public string Setting {
             get {
-                return ((string)(this["ConexionBBDD"]));
+                return ((string)(this["Setting"]));
             }
         }
     }
