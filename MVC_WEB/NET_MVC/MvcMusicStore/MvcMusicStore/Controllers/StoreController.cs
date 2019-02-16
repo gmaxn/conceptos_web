@@ -23,10 +23,13 @@ namespace MvcMusicStore.Controllers
         }
 
         // GET: Store/Details
-        public string Details()
+        public string Details(int id)
         {
-            return "Hello from Store.Details()";
+            string message = "Store.Details, ID = " + id;
+
+            return message;
         }
+
 
     }
 }
