@@ -14,6 +14,8 @@ D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\roslyn\VB
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll.config
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.dll
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Agent.Intercept.dll
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.dll
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -29,6 +31,8 @@ D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\System.We
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Deployment.dll
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.dll
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Razor.dll
+D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.xml
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.xml
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.xml
@@ -41,6 +45,5 @@ D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\System.We
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\System.Web.Webpages.Razor.xml
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
-D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
