@@ -47,3 +47,4 @@ D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\System.We
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+D:\gmaxn\CONCEPTOS_WEB\MVC_WEB\NET_MVC\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
